@@ -1,2 +1,2 @@
 # Logistic-regression
-Jupyter notebook exploring logistic regression model on Iris dataset.
+ A simple Jupyter notebook exploring logistic regression model on Iris dataset.
